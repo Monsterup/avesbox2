@@ -1,0 +1,10 @@
+{
+  "group": "fapet",
+  "feature": [
+    {
+      "name": "birdsManagement",
+      "url": "birdsManagement",
+      "version": "1"
+    }
+  ]
+}

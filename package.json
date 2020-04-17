@@ -1,0 +1,36 @@
+{
+  "name": "avesbox_fe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "faker": "^4.1.0",
+    "graphql": "^14.6.0",
+    "influxdb-nodejs": "^3.1.0",
+    "ioredis": "^4.16.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.11",
+    "mongoose-delete": "^0.5.1",
+    "nodemailer": "^6.4.4",
+    "nodemon": "^2.0.2",
+    "pm2": "^4.1.2",
+    "randing": "^1.0.1",
+    "redis": "^3.0.2",
+    "superagent": "^5.2.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
