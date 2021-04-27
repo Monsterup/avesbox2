@@ -28,7 +28,7 @@
     "nodemon": "^2.0.2",
     "pm2": "^4.1.2",
     "randing": "^1.0.1",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "superagent": "^5.2.2"
   },
   "author": "",
