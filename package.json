@@ -24,7 +24,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.8.11",
     "mongoose-delete": "^0.5.1",
-    "nodemailer": "^6.4.4",
+    "nodemailer": "^6.4.16",
     "nodemon": "^2.0.2",
     "pm2": "^4.1.2",
     "randing": "^1.0.1",
